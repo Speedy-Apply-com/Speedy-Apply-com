@@ -6,6 +6,6 @@ We're building an AI agent that sends out 100s of job applications daily — so 
 
 💼 Built for: job seekers, career switchers, and remote job hunters  
 
-🔗 Try it here: [https://speedy-apply.ai](https://speedy-apply.ai)
+🔗 Try it here: [https://speedy-apply.com](https://speedy-apply.com)
 
 ---
