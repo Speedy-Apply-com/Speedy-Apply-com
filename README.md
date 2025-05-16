@@ -1,4 +1,4 @@
-👋 Speedy-Apply.com – Automated Job Applications. Up to 800 Applications/Day
+👋 [**Speedy-Apply.com**](https://speedy-apply.com) – Automated Job Applications. Up to 800 Applications/Day
 
 We're building an AI agent that sends out 100s of job applications daily — so you can land interviews faster, with less effort.
 
